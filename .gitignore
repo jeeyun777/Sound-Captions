@@ -1,0 +1,15 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+data/
+*.pkl
+__pycache__/
+*.apk
+
+!apk/*.apk
+keystore.properties
+*.jks
